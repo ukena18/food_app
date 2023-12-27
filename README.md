@@ -19,7 +19,11 @@ How to PArt1
 - First lets create 3 users
 - add more than 2 locations .
 ```python
-##path('locations/', views.locations_api, name ='locations_api'),
+##path('locations/', v
+
+
+
+iews.locations_api, name ='locations_api'),
 ```
 - then create 1 cook and 1 person
 ```python
