@@ -32,6 +32,9 @@ iews.locations_api, name ='locations_api'),
 ```
 - create more than 3 food with cook
 
+
+
+
 -create a cart for a person
 ```python
 ##path('cart/<int:pk>', views.cart_api, name='cart_api'),
