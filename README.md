@@ -25,6 +25,8 @@ How to PArt1
 
 iews.locations_api, name ='locations_api'),
 ```
+
+
 - then create 1 cook and 1 person
 ```python
 ##path('cooks/', views.cooks_api, name ='cooks_api'),
